@@ -1,0 +1,11 @@
+\select@language {spanish}
+\contentsline {section}{\numberline {1} Problema a Resolver}{3}
+\contentsline {section}{\numberline {2} Descripci\IeC {\'o}n de la Aplicaci\IeC {\'o}n}{3}
+\contentsline {section}{\numberline {3} Descripci\IeC {\'o}n del Contexto en Funci\IeC {\'o}n de los Aspectos}{4}
+\contentsline {subsection}{\numberline {3.1} Ambiente F\IeC {\'\i }sico}{4}
+\contentsline {subsection}{\numberline {3.2} Ambiente Social}{4}
+\contentsline {subsection}{\numberline {3.3} Ambiente Organizacional}{4}
+\contentsline {subsection}{\numberline {3.4} Ambiente Soporte de Usuario}{5}
+\contentsline {subsection}{\numberline {3.5} Restricciones}{5}
+\contentsline {section}{\numberline {4} Prototipo de la Aplicaci\IeC {\'o}n}{5}
+\contentsline {subsection}{\numberline {4.1} Imagenes}{6}
